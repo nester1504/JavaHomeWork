@@ -4,9 +4,10 @@ public class Task1 {
 
     public static void ScanNumberN() {
         System.out.print("Введите число n = ");
-        Scanner scan = new Scanner(System.in);
-        int n = scan.nextInt();
-        System.out.println(SumOfNumbersToN(n));
+        try (Scanner scan = new Scanner(System.in)) {
+            int n = scan.nextInt();
+            System.out.println(SumOfNumbersToN(n));
+        }
     }
 
     public static int SumOfNumbersToN(int n) {
