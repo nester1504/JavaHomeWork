@@ -4,7 +4,11 @@ public class App {
 
         // Task1.ScanNumberN();
         // Task2.PrimeNumbers(1000);
-        Task3.Сalculator();
+        // Task3.Сalculator();
+
+        // Task4.SolveEquation();
+
+        Task4.SolveEquation();
 
     }
 
