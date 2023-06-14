@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-14T18:02:11.632100900Z</date>
+  <millis>1686765731632</millis>
+  <nanos>100900</nanos>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Исходный массив: [5, 2, 8, 12, 3, 7, 45, 2, 5, 7]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.695118600Z</date>
+  <millis>1686765731695</millis>
+  <nanos>118600</nanos>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 1: [2, 5, 8, 12, 3, 7, 45, 2, 5, 7]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.696118Z</date>
+  <millis>1686765731696</millis>
+  <nanos>118000</nanos>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 1: [2, 5, 8, 3, 12, 7, 45, 2, 5, 7]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.697120500Z</date>
+  <millis>1686765731697</millis>
+  <nanos>120500</nanos>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 1: [2, 5, 8, 3, 7, 12, 45, 2, 5, 7]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.697120500Z</date>
+  <millis>1686765731697</millis>
+  <nanos>120500</nanos>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 1: [2, 5, 8, 3, 7, 12, 2, 45, 5, 7]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.698120400Z</date>
+  <millis>1686765731698</millis>
+  <nanos>120400</nanos>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 1: [2, 5, 8, 3, 7, 12, 2, 5, 45, 7]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.699119100Z</date>
+  <millis>1686765731699</millis>
+  <nanos>119100</nanos>
+  <sequence>6</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 1: [2, 5, 8, 3, 7, 12, 2, 5, 7, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.700119100Z</date>
+  <millis>1686765731700</millis>
+  <nanos>119100</nanos>
+  <sequence>7</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 2: [2, 5, 3, 8, 7, 12, 2, 5, 7, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.701119300Z</date>
+  <millis>1686765731701</millis>
+  <nanos>119300</nanos>
+  <sequence>8</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 2: [2, 5, 3, 7, 8, 12, 2, 5, 7, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.702119700Z</date>
+  <millis>1686765731702</millis>
+  <nanos>119700</nanos>
+  <sequence>9</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 2: [2, 5, 3, 7, 8, 2, 12, 5, 7, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.702119700Z</date>
+  <millis>1686765731702</millis>
+  <nanos>119700</nanos>
+  <sequence>10</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 2: [2, 5, 3, 7, 8, 2, 5, 12, 7, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.703121300Z</date>
+  <millis>1686765731703</millis>
+  <nanos>121300</nanos>
+  <sequence>11</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 2: [2, 5, 3, 7, 8, 2, 5, 7, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.704121600Z</date>
+  <millis>1686765731704</millis>
+  <nanos>121600</nanos>
+  <sequence>12</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 3: [2, 3, 5, 7, 8, 2, 5, 7, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.705120200Z</date>
+  <millis>1686765731705</millis>
+  <nanos>120200</nanos>
+  <sequence>13</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 3: [2, 3, 5, 7, 2, 8, 5, 7, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.705626900Z</date>
+  <millis>1686765731705</millis>
+  <nanos>626900</nanos>
+  <sequence>14</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 3: [2, 3, 5, 7, 2, 5, 8, 7, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.705626900Z</date>
+  <millis>1686765731705</millis>
+  <nanos>626900</nanos>
+  <sequence>15</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 3: [2, 3, 5, 7, 2, 5, 7, 8, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.706630300Z</date>
+  <millis>1686765731706</millis>
+  <nanos>630300</nanos>
+  <sequence>16</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 4: [2, 3, 5, 2, 7, 5, 7, 8, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.706630300Z</date>
+  <millis>1686765731706</millis>
+  <nanos>630300</nanos>
+  <sequence>17</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 4: [2, 3, 5, 2, 5, 7, 7, 8, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.707630600Z</date>
+  <millis>1686765731707</millis>
+  <nanos>630600</nanos>
+  <sequence>18</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 5: [2, 3, 2, 5, 5, 7, 7, 8, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.708630800Z</date>
+  <millis>1686765731708</millis>
+  <nanos>630800</nanos>
+  <sequence>19</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Обмен 6: [2, 2, 3, 5, 5, 7, 7, 8, 12, 45]</message>
+</record>
+<record>
+  <date>2023-06-14T18:02:11.708630800Z</date>
+  <millis>1686765731708</millis>
+  <nanos>630800</nanos>
+  <sequence>20</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив: [2, 2, 3, 5, 5, 7, 7, 8, 12, 45]</message>
+</record>
+</log>
