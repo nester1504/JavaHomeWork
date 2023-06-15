@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-15T17:52:05.578864200Z</date>
+  <millis>1686851525578</millis>
+  <nanos>864200</nanos>
+  <sequence>0</sequence>
+  <logger>Task4</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Результат арифметического действия:</message>
+</record>
+<record>
+  <date>2023-06-15T17:52:05.609379700Z</date>
+  <millis>1686851525609</millis>
+  <nanos>379700</nanos>
+  <sequence>1</sequence>
+  <logger>Task4</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>2.0 + 5.0 = 7.0</message>
+</record>
+</log>

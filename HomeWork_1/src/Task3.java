@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class Task3 {
+
+
     public static void Сalculator() {
         double number1;
         double number2;
@@ -13,6 +15,8 @@ public class Task3 {
             System.out.print("\n Введите арифметические действия (+, -, *, /): ");
             operator = reader.next().charAt(0);
         }
+
+
         switch (operator) {
             case '+':
                 result = number1 + number2;
