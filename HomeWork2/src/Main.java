@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Task1.sQLQueryBuilder();
+        //Task1.sQLQueryBuilder();
 
         // int[] array = {5, 2, 8, 12, 3, 7, 45, 2, 5, 7};
 
@@ -28,6 +28,8 @@ public class Main {
         //    System.out.println("Ошибка при записи логов в файл: " + e.getMessage());
       //  }
 
+
+        Task4.calculator();
 
     }
 }
